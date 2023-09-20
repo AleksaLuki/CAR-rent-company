@@ -1,0 +1,6 @@
+.container {
+    width: 1440px;
+    position: fixed;
+    z-index: 5;
+    width:100%;
+}
