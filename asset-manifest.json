@@ -1,13 +1,30 @@
 {
   "files": {
-    "main.css": "/CAR-rent-company/static/css/main.7acaea2f.css",
-    "main.js": "/CAR-rent-company/static/js/main.930fc0dc.js",
+    "main.css": "/CAR-rent-company/static/css/main.308d040c.css",
+    "main.js": "/CAR-rent-company/static/js/main.a4b34895.js",
+    "static/css/171.589dcbe3.chunk.css": "/CAR-rent-company/static/css/171.589dcbe3.chunk.css",
+    "static/js/171.bce01b17.chunk.js": "/CAR-rent-company/static/js/171.bce01b17.chunk.js",
+    "static/css/99.cbb8244d.chunk.css": "/CAR-rent-company/static/css/99.cbb8244d.chunk.css",
+    "static/js/99.c9766428.chunk.js": "/CAR-rent-company/static/js/99.c9766428.chunk.js",
+    "static/css/620.7f2f526b.chunk.css": "/CAR-rent-company/static/css/620.7f2f526b.chunk.css",
+    "static/js/620.feeba2ee.chunk.js": "/CAR-rent-company/static/js/620.feeba2ee.chunk.js",
+    "static/js/205.5b7a4336.chunk.js": "/CAR-rent-company/static/js/205.5b7a4336.chunk.js",
+    "static/js/934.7e8d8db9.chunk.js": "/CAR-rent-company/static/js/934.7e8d8db9.chunk.js",
+    "static/media/bmw-reviews-and-rating-motor-trend-1.png": "/CAR-rent-company/static/media/bmw-reviews-and-rating-motor-trend-1.4efe3183a80f591aa977.png",
     "index.html": "/CAR-rent-company/index.html",
-    "main.7acaea2f.css.map": "/CAR-rent-company/static/css/main.7acaea2f.css.map",
-    "main.930fc0dc.js.map": "/CAR-rent-company/static/js/main.930fc0dc.js.map"
+    "main.308d040c.css.map": "/CAR-rent-company/static/css/main.308d040c.css.map",
+    "main.a4b34895.js.map": "/CAR-rent-company/static/js/main.a4b34895.js.map",
+    "171.589dcbe3.chunk.css.map": "/CAR-rent-company/static/css/171.589dcbe3.chunk.css.map",
+    "171.bce01b17.chunk.js.map": "/CAR-rent-company/static/js/171.bce01b17.chunk.js.map",
+    "99.cbb8244d.chunk.css.map": "/CAR-rent-company/static/css/99.cbb8244d.chunk.css.map",
+    "99.c9766428.chunk.js.map": "/CAR-rent-company/static/js/99.c9766428.chunk.js.map",
+    "620.7f2f526b.chunk.css.map": "/CAR-rent-company/static/css/620.7f2f526b.chunk.css.map",
+    "620.feeba2ee.chunk.js.map": "/CAR-rent-company/static/js/620.feeba2ee.chunk.js.map",
+    "205.5b7a4336.chunk.js.map": "/CAR-rent-company/static/js/205.5b7a4336.chunk.js.map",
+    "934.7e8d8db9.chunk.js.map": "/CAR-rent-company/static/js/934.7e8d8db9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.930fc0dc.js"
+    "static/css/main.308d040c.css",
+    "static/js/main.a4b34895.js"
   ]
 }
